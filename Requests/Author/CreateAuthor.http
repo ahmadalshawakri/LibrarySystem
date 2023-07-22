@@ -1,0 +1,7 @@
+POST https://localhost:7025/api/Author
+Content-Type: application/json
+
+{
+ "firstName": "Ahmad",
+ "lastName": "Shawakri"
+}
